@@ -34,7 +34,7 @@ emotion-recognition-multimodal/
 │
 ├── reports/
 │   ├── AML_Project.pdf
-│   └── 1768922993_script.pdf
+│   └── script.ipynb
 │
 ├── data/
 │   ├── README.md  (data download instructions)
